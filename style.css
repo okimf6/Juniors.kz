@@ -1,0 +1,1234 @@
+
+.BG1 img{
+    width: 1500px;
+    height: 900px;
+    margin-top: -10px;
+    margin-left: -200px;
+    position: absolute;
+    display: flex;
+    z-index: 0;
+}
+.BG2 img{
+    width: 1000px;
+    height: 900px;
+    margin-top: -10px;
+    margin-left: 889px;
+    position: absolute;
+    display: flex;
+    z-index: -1;
+}
+.container {
+    position: relative;
+}
+
+.BG3 img {
+    width: 180px;
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 1160px;
+    position: absolute;
+    z-index: 100;
+}
+.BG3q img {
+    width: 350px;
+    height: 180px;
+    margin-top: 1950px;
+    margin-left: 780px;
+    position: absolute;
+    z-index: 100;
+}
+.BG3w img {
+    width: 180px;
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 1160px;
+    position: absolute;
+    z-index: 100;
+}
+.BG4 img {
+    width: 500px;
+    height: 800px;
+    margin-top: 1000px;
+    margin-left: 300px;
+    position: absolute;
+    z-index: 1;
+}
+.BG5 img {
+    width: 500px;
+    height: 500px;
+    margin-top: 2150px;
+    margin-left: 150px;
+    position: absolute;
+    z-index: 1;
+    border-radius:20px ;
+}
+.BG6 img {
+    width: 500px;
+    height: 500px;
+    margin-top: 1900px;
+    margin-left: 1250px;
+    position: absolute;
+    z-index: 1;
+    border-radius:20px ;
+}
+.BG7 img {
+    width: 500px;
+    height: 500px;
+    margin-top: 2550px;
+    margin-left: 1250px;
+    position: absolute;
+    z-index: 1;
+    border-radius:20px ;
+}
+.BG10 img{
+    width: 450px;
+    height: 245px;
+    margin-top: 3295px;
+    margin-left: 450px;
+    position: absolute;
+    z-index: 1;
+    border-radius:20px ;
+}
+.BG11 img{
+    width: 450px;
+    height: 245px;
+    margin-top: 3545px;
+    margin-left: 1010px;
+    position: absolute;
+    z-index: 1;
+    border-radius:20px ;
+}
+.BG12 img{
+    width: 450px;
+    height: 245px;
+    margin-top: 3795px;
+    margin-left: 450px;
+    position: absolute;
+    z-index: 1;
+    border-radius:20px ;
+}
+.BG13 img{
+    width: 450px;
+    height: 245px;
+    margin-top: 4045px;
+    margin-left: 1010px;
+    position: absolute;
+    z-index: 1;
+    border-radius:20px ;
+}
+.BG14 img{
+    width: 450px;
+    height: 245px;
+    margin-top: 4295px;
+    margin-left: 450px;
+    position: absolute;
+    z-index: 1;
+    border-radius:20px ;
+}
+.BG15 img{
+    width: 450px;
+    height: 245px;
+    margin-top: 4595px;
+    margin-left: 1010px;
+    position: absolute;
+    z-index: 1;
+    border-radius:20px ;
+}
+.BG17 img{
+    width: 450px;
+    height: 745px;
+    margin-top: 5100px;
+    margin-left: 1310px;
+    position: absolute;
+    z-index: 1;
+    border-radius:20px ;
+}
+.BG21 img{
+    width: 300px;
+    height: 145px;
+    margin-top: 6200px;
+    margin-left: 146px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 20px;
+}
+
+.rectangle1 {
+    width: 300px;
+    height: 900px;
+    margin-top: -10px;
+    background-color: rgb(109, 107, 107);
+    margin-left: 1100px;
+    z-index: 1;
+    position: absolute;
+}
+.rectangle2 {
+    width: 1899px;
+    height: 1000px;
+    top: 897px;
+    background-color: rgb(44, 44, 44);
+    margin-left: 1080px;
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+.rectangle3 {
+    width: 900px;
+    height: 5px;
+    top: 1008px;
+    background-color: rgb(77, 77, 77);
+    left: 800px;
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+.rectangle4 {
+    width: 900px;
+    height: 5px;
+    top: 1275px;
+    background-color: rgb(77, 77, 77);
+    left: 800px;
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+.rectangle5 {
+    width: 900px;
+    height: 5px;
+    top: 1550px;
+    background-color: rgb(77, 77, 77);
+    left: 800px;
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+.rectangle6 {
+    width: 900px;
+    height: 5px;
+    top: 1802px;
+    background-color: rgb(77, 77, 77);
+    left: 800px;
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+.rectangle7 {
+    width: 1899px;
+    height: 1200px;
+    top: 1897px;
+    background-color: rgb(223, 221, 205);
+    margin-left: 1080px;
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+.rectangle8 {
+    width: 1899px;
+    height: 2000px;
+    top: 3090px;
+    background-color: rgb(51, 51, 51);
+    margin-left: 1080px;
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+.rectangle8q {
+    width: 1899px;
+    height: 2px;
+    top: 3300px;
+    background-color: rgb(77, 77, 77);
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+.rectangle8w {
+    width: 1899px;
+    height: 2px;
+    top: 4900px;
+    background-color: rgb(77, 77, 77);
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+.rectangle8e {
+    width: 1600px;
+    height: 2px;
+    top: 4100px;
+    background-color: rgb(77, 77, 77);
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+    transform: rotate(90deg);
+    right: -400px;
+}
+.rectangle8r {
+    width: 1600px;
+    height: 2px;
+    top: 4100px;
+    background-color: rgb(77, 77, 77);
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+    transform: rotate(90deg);
+    left: -400px;
+}
+.rectangle8t {
+    width: 1600px;
+    height: 2px;
+    top: 4100px;
+    background-color: rgb(77, 77, 77);
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+    transform: rotate(90deg);
+    left: 200px;
+}
+.rectangle8y {
+    width: 1105px;
+    height: 2px;
+    top: 3550px;
+    background-color: rgb(77, 77, 77);
+    z-index: -1;
+    position: absolute;
+    margin-left: 383px;
+}
+.rectangle8u {
+    width: 1105px;
+    height: 2px;
+    top: 3800px;
+    background-color: rgb(77, 77, 77);
+    z-index: -1;
+    position: absolute;
+    margin-left: 383px;
+}
+.rectangle8i {
+    width: 1105px;
+    height: 2px;
+    top: 4050px;
+    background-color: rgb(77, 77, 77);
+    z-index: -1;
+    position: absolute;
+    margin-left: 383px;
+}
+.rectangle8o {
+    width: 1105px;
+    height: 2px;
+    top: 4300px;
+    background-color: rgb(77, 77, 77);
+    z-index: -1;
+    position: absolute;
+    margin-left: 383px;
+}
+.rectangle8p {
+    width: 1105px;
+    height: 2px;
+    top: 4550px;
+    background-color: rgb(77, 77, 77);
+    z-index: -1;
+    position: absolute;
+    margin-left: 383px;
+}
+.rectangle9 {
+    width: 1899px;
+    height: 800px;
+    top: 5080px;
+    background-color: rgb(178, 219, 151);
+    margin-left: 1080px;
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+.rectangleT1 {
+    width: 300px;
+    height: 80px;
+    color: rgb(0, 0, 0);
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: bold;
+    transition: transform 0.3s ease, font-size 0.3s ease, width 0.3s ease;
+    position: absolute;
+    border-radius: 10px;
+    top: 5610px;
+    left: 150px;
+    border: 2px solid rgb(90, 14, 1);
+}
+
+.rectangleT1:hover {
+    transform: scale(1.2); /* Увеличивает размер всего элемента */
+    font-size: 16px; /* Увеличивает размер шрифта */
+    width: 240px; /* Увеличивает ширину */
+}
+.rectangleT2 {
+    width: 300px;
+    height: 80px;
+    color: rgb(0, 0, 0);
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: bold;
+    transition: transform 0.3s ease, font-size 0.3s ease, width 0.3s ease;
+    position: absolute;
+    border-radius: 10px;
+    top: 5610px;
+    left: 470px;
+    border: 2px solid rgb(90, 14, 1);
+}
+
+.rectangleT2:hover {
+    transform: scale(1.2); /* Увеличивает размер всего элемента */
+    font-size: 16px; /* Увеличивает размер шрифта */
+    width: 240px; /* Увеличивает ширину */
+}
+.rectangleT3 {
+    width: 300px;
+    height: 80px;
+    color: rgb(0, 0, 0);
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: bold;
+    transition: transform 0.3s ease, font-size 0.3s ease, width 0.3s ease;
+    position: absolute;
+    border-radius: 10px;
+    top: 5710px;
+    left: 470px;
+    border: 2px solid rgb(90, 14, 1);
+}
+
+.rectangleT3:hover {
+    transform: scale(1.2); /* Увеличивает размер всего элемента */
+    font-size: 16px; /* Увеличивает размер шрифта */
+    width: 240px; /* Увеличивает ширину */
+}
+.rectangleT4 {
+    width: 300px;
+    height: 80px;
+    color: rgb(0, 0, 0);
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: bold;
+    transition: transform 0.3s ease, font-size 0.3s ease, width 0.3s ease;
+    position: absolute;
+    border-radius: 10px;
+    top: 5710px;
+    left: 150px;
+    border: 2px solid rgb(90, 14, 1);
+}
+
+.rectangleT4:hover {
+    transform: scale(1.2); /* Увеличивает размер всего элемента */
+    font-size: 16px; /* Увеличивает размер шрифта */
+    width: 240px; /* Увеличивает ширину */
+}
+.rectangle10 {
+    width: 1899px;
+    height: 800px;
+    top: 5880px;
+    background-color: rgb(82, 82, 82);
+    margin-left: 1080px;
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+.rectangle11 {
+    width: 1899px;
+    height: 150px;
+    top: 6600px;
+    background-color: rgb(36, 36, 36);
+    margin-left: 1080px;
+    z-index: -1;
+    position: absolute;
+    margin-left: -10px;
+}
+
+
+.img{
+    display: flex;
+    position: absolute;
+    z-index: 0;
+}
+
+
+
+/* Текстовые настройки */
+.tx1 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255); 
+    font-size: 24px; 
+    top: 100px; 
+    left: 260px; 
+}
+.tx2 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255); 
+    font-size: 16px; 
+    top: 130px; 
+    left: 270px; 
+}
+.tx3 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255); 
+    font-size: 40px; 
+    top: 180px; 
+    left: 265px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+.tx3:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+.tx4 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255); 
+    font-size: 20px; 
+    top:380px; 
+    left: 265px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tx5 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    top: 1160px;
+    left: 825px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tx6 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    top: 1400px;
+    left: 825px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tx7 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    top: 1650px;
+    left: 825px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tx5q {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 55px;
+    top: 1120px;
+    left: 1325px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+
+.tx5q:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+
+.tx6q, .tx7q {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+
+.tx6q {
+    font-size: 55px;
+    top: 1400px;
+    left: 1280px;
+}
+
+.tx7q {
+    font-size: 45px;
+    top: 1650px;
+    left: 1325px;
+}
+
+.tx6q:hover, .tx7q:hover {
+    transform: scale(1.2); /* Увеличение */
+    letter-spacing: 3px; /* Расширение букв */
+}
+
+.tx8 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    top: 1950px;
+    left: 325px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+.tx8:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+
+.tx9 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    top: 2200px;
+    left: 665px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx10 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    top: 2700px;
+    left: 165px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx11 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    top: 2450px;
+    left: 1265px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx12 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    top: 2900px;
+    left: 165px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx13 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(61, 61, 61);
+    font-size: 15px;
+    top: 2125px;
+    left: 165px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx14 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(61, 61, 61);
+    font-size: 20px;
+    top: 2125px;
+    left: 1130px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transform: rotate(-90deg);
+}
+.tx15 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(61, 61, 61);
+    font-size: 20px;
+    top: 2525px;
+    left: 1460px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx16 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(61, 61, 61);
+    font-size: 20px;
+    top: 2350px;
+    left: 610px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transform: rotate(90deg);
+}
+.tx17 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 40px;
+    top: 3200px;
+    left: 165px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx18 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 40px;
+    top: 3320px;
+    left: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+.tx18:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+.tx19 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 40px;
+    top: 3820px;
+    left: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+.tx19:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+.tx20 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 40px;
+    top: 4320px;
+    left: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+.tx20:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+.tx21 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 40px;
+    top: 3560px;
+    left: 410px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+.tx21:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+.tx22 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 40px;
+    top: 4560px;
+    left: 410px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+.tx22:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+.tx23 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 40px;
+    top: 4060px;
+    left: 410px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+.tx23:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+.tx18q {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 15px;
+    top: 3420px;
+    left: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx19q {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 15px;
+    top: 3920px;
+    left: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx20q {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 15px;
+    top: 4420px;
+    left: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx21q {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 15px;
+    top: 3660px;
+    left: 410px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx22q {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 15px;
+    top: 4660px;
+    left: 410px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx23q {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255 255 255);
+    font-size: 15px;
+    top: 4160px;
+    left: 410px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx24 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    top: 5150px;
+    left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+.tx24:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+
+.tx25 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    top: 5250px;
+    left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx26 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    top: 5550px;
+    left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+.tx26:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+.tx27 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    top: 5950px;
+    left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: transform 0.3s ease, letter-spacing 0.3s ease;
+}
+.tx27:hover {
+    transform: scale(1.2); /* Увеличиваем текст */
+    letter-spacing: 3px; /* Расширяем буквы */
+}
+.tx28 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(200, 255, 163);
+    font-size: 35px;
+    top: 6050px;
+    left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx29 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    top: 6100px;
+    left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx30 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(0, 98, 155);
+    font-size: 20px;
+    top: 6700px;
+    left: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx31 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    top: 6600px;
+    left: 1350px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx31 a {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    font-size: 17px;
+    top: 42px;
+    left: 190px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tx32 {
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    top: 6600px;
+    left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.qa{
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    color: rgb(9, 255, 0);
+    font-size: 20px;
+    top: 6172px;
+    left: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.qa {
+    color: rgb(200, 255, 163);
+    text-decoration: none; /* Убираем подчеркивание */
+}
+a:visited {
+    color: rgb(200, 255, 163);
+}
+a:hover {
+    color: rgb(0, 247, 255);
+}
+a:active {
+    color: orange;
+}
+
+/* конец текстовых настроек */
+
+/* кнопки */
+.whatsapp-button {
+    background-color: #25D366; /* Зеленый цвет WhatsApp */
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px 10px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: 0.3s;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    z-index: 30;
+    top: 6400px;
+    left: 150px;
+}
+
+.whatsapp-button:hover {
+    background-color: #1EBE5D; /* Темнее при наведении */
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.whatsapp-button img {
+    width: 24px;
+    height: 24px;
+}
+
+.email-button {
+    background-color: #D44638; /* Красный цвет Gmail */
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: 0.3s;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    top: 6460px;
+    left: 150px;
+}
+
+.email-button:hover {
+    background-color: #B23121; /* Темнее при наведении */
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.email-button img {
+    width: 24px;
+    height: 24px;
+}
+
+
+#map {
+    width: 800px;
+    height: 600px;
+    position: absolute;
+    z-index: 31;
+    top: 5950px;
+    left: 1000px;
+    border-radius: 20px;
+    border: 10px solid  rgb(22, 54, 1);
+}
+
+.navigate-btn {
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 20px;
+    text-decoration: none; /* Убираем подчеркивание у ссылки */
+    position: absolute;
+    left: 1400px;
+    top: 50px;
+}
+
+.navigate-btn:hover {
+    background-color: rgb(102, 102, 102);
+}
+.navigate-btn5 {
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 20px;
+    text-decoration: none; /* Убираем подчеркивание у ссылки */
+    position: absolute;
+    left: 1400px;
+    top: 250px;
+}
+
+.navigate-btn5:hover {
+    background-color: rgb(102, 102, 102);
+}
+.navigate-btn2 {
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 20px;
+    text-decoration: none; /* Убираем подчеркивание у ссылки */
+    position: absolute;
+    left: 1400px;
+    top: 100px;
+}
+
+.navigate-btn2:hover {
+    background-color: rgb(102, 102, 102);
+}
+
+.navigate-btn3 {
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 20px;
+    text-decoration: none; /* Убираем подчеркивание у ссылки */
+    position: absolute;
+    left: 1400px;
+    top: 150px;
+}
+
+.navigate-btn3:hover {
+    background-color: rgb(102, 102, 102);
+}
+
+.navigate-btn4 {
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 20px;
+    text-decoration: none; /* Убираем подчеркивание у ссылки */
+    position: absolute;
+    left: 1400px;
+    top: 200px;
+}
+
+.navigate-btn4:hover {
+    background-color: rgb(102, 102, 102);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Стили для кнопки открытия формы */
+.open-form-btn {
+    background-color: rgb(200, 255, 163);
+    border-radius: 20px;
+    border: 2px solid  rgb(0, 0, 0);;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+    left: 1170px;
+    top: 800px;
+    z-index: 200;
+}
+
+.open-form-btn:hover {
+    background-color: rgb(170, 230, 133);
+}
+
+/* Стили для модального окна */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    overflow: auto;
+}
+
+/* Стили для содержимого окна */
+.modal-content {
+    background-color: white;
+    margin: 15% auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+/* Стили для кнопки закрытия */
+.close-btn {
+    color: black;
+    float: right;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close-btn:hover {
+    color: red;
+}
+
+/* Стили для формы */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Стили для кнопки отправки */
+.submit-btn {
+    background-color: rgb(200, 255, 163);
+    border-radius: 20px;
+    border: 1px solid black;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.submit-btn:hover {
+    background-color: rgb(170, 230, 133);
+}
+
+input {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
