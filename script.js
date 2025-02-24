@@ -1,7 +1,7 @@
 
 /* Ватсап */
 function redirectToWhatsApp() {
-    let phoneNumber = "77016713696"; // Укажите ваш номер без + и пробелов
+    let phoneNumber = "7123456789"; // Укажите ваш номер без + и пробелов
     window.location.href = `https://wa.me/${phoneNumber}`;
 
 
